@@ -1,0 +1,69 @@
+﻿region,country,popgrowth,lexp,gnppc,safewater
+Europe & C. Asia,Albania,1.2,72,810,76
+Europe & C. Asia,Armenia,1.1,74,460,
+Europe & C. Asia,Austria,0.4,79,26830,
+Europe & C. Asia,Azerbaijan,1.4,71,480,
+Europe & C. Asia,Belarus,0.3,68,2180,
+Europe & C. Asia,Belgium,0.2,78,25380,
+Europe & C. Asia,Bosnia and Herzegovina,-0.5,73,,
+Europe & C. Asia,Bulgaria,-0.4,71,1220,
+Europe & C. Asia,Croatia,-0.1,73,4620,63
+Europe & C. Asia,Czech Republic,0,75,5150,
+Europe & C. Asia,Denmark,0.2,76,33040,
+Europe & C. Asia,Estonia,-0.1,70,3360,
+Europe & C. Asia,Finland,0.4,77,24280,98
+Europe & C. Asia,France,0.5,78,24210,100
+Europe & C. Asia,Georgia,0.4,73,970,
+Europe & C. Asia,Germany,0.3,77,26570,
+Europe & C. Asia,Greece,0.5,78,11740,
+Europe & C. Asia,Hungary,-0.3,71,4510,
+Europe & C. Asia,Ireland,0.5,76,18710,
+Europe & C. Asia,Italy,0.1,78,20090,
+Europe & C. Asia,Kazakhstan,0.3,65,1340,
+Europe & C. Asia,Kyrgyz Republic,1.4,67,380,81
+Europe & C. Asia,Latvia,-0.2,70,2420,
+Europe & C. Asia,Lithuania,0.5,72,2540,
+Europe & C. Asia,Macedonia FYR,0.3,73,1290,
+Europe & C. Asia,Moldova,0.4,67,380,56
+Europe & C. Asia,Netherlands,0.6,78,24780,100
+Europe & C. Asia,Norway,0.4,78,34310,100
+Europe & C. Asia,Poland,0.5,73,3910,
+Europe & C. Asia,Portugal,0.1,75,10670,82
+Europe & C. Asia,Romania,0.1,69,1360,62
+Europe & C. Asia,Russian Federation,0.3,67,2260,
+Europe & C. Asia,Slovak Republic,0.4,73,3700,
+Europe & C. Asia,Slovenia,0.2,75,9780,98
+Europe & C. Asia,Spain,0.3,78,14100,
+Europe & C. Asia,Sweden,0.4,79,25580,
+Europe & C. Asia,Switzerland,0.7,79,39980,100
+Europe & C. Asia,Tajikistan,2.4,69,370,69
+Europe & C. Asia,Turkey,2,69,3160,
+Europe & C. Asia,Turkmenistan,2.8,66,,60
+Europe & C. Asia,Ukraine,0,67,980,55
+Europe & C. Asia,United Kingdom,0.3,77,21410,100
+Europe & C. Asia,Uzbekistan,2.3,69,950,57
+Europe & C. Asia,"Yugoslavia, FR (Serb./Mont.)",0.5,72,,
+North America,Canada,1.2,79,19170,99
+North America,Cuba,0.7,76,,93
+North America,Dominican Republic,2.1,71,1770,71
+North America,El Salvador,1.5,69,1850,55
+North America,Guatemala,2.6,64,1640,67
+North America,Haiti,2,54,410,28
+North America,Honduras,3,69,740,65
+North America,Jamaica,1,75,1740,70
+North America,Mexico,1.9,72,3840,83
+North America,Nicaragua,2.8,68,1896,81
+North America,Panama,1.9,74,2990,84
+North America,Puerto Rico,1,76,,97
+North America,Trinidad and Tobago,1,73,4520,82
+North America,United States,1,77,29240,
+South America,Argentina,1.4,73,8030,65
+South America,Bolivia,2.2,62,1010,55
+South America,Brazil,1.7,67,4630,72
+South America,Chile,1.6,75,4990,85
+South America,Colombia,2,70,2470,78
+South America,Ecuador,2.4,70,1520,70
+South America,Paraguay,2.9,70,1760,39
+South America,Peru,2,69,2440,80
+South America,Uruguay,0.7,74,6070,89
+South America,Venezuela,2.4,73,3530,79
